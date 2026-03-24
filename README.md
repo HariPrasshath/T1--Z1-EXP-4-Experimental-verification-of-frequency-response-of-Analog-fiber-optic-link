@@ -75,18 +75,16 @@ current flows through its emitter generating the voltage across the resistance c
 ## TABULATION  
 **Transmission through Analog Link**
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3f46f57e-6dc1-49f0-b733-190abec2a12a" />
 
 ---
 
 ## MODEL GRAPH
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/53e83bc7-83da-4126-8859-2f49b44e5126" />
 
-*(Insert model graph here)*
 
 ---
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+frequency response of analog fiber optic link is verified
